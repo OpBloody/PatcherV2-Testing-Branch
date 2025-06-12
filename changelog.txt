@@ -1,5 +1,8 @@
 (06/12/2025) v1.0.1 Launcher Update:
-[+] Updated Patcher V2 Launcher.
+[+] Updated Patcher V2 Launcher and imrpoved its over all look.
 [+] Added a changelog to the launcher.
+[+] Updated blacklist and improved security.
+[+] Added a new config system for future file variables that wont come with patcher. (This is mainly for API keys, Tokens, Settings, Etc)
+[+] Improved Patcher V2 loading time significantly.
 
 We are aware of a issue that does not allow certain systems to start PatcherV2. We are working on a fix!
