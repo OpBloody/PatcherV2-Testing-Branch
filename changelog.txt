@@ -1,2 +1,5 @@
-Change Log test:
-[+] Updated Patcher V2 Launcher
+(06/12/2025) v1.0.1 Launcher Update:
+[+] Updated Patcher V2 Launcher.
+[+] Added a changelog to the launcher.
+
+We are aware of a issue that does not allow certain systems to start PatcherV2. We are working on a fix!
