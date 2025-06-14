@@ -3,7 +3,8 @@
 [+] Fixed loading issues on some devices.
 [+] Optimized some of the tools e.g, IP Lookup, NSLookup, IP Range Scanner.
 
-We have a discord now! https://discord.gg/xVgBHYuHDf
+- Plugin documentation coming soon!
+- We have a discord now! https://discord.gg/xVgBHYuHDf
 
 (06/12/2025) v1.0.1 Launcher Update:
 [+] Updated Patcher V2 Launcher and imrpoved its over all look.
